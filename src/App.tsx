@@ -17,12 +17,12 @@ const App = () => {
     <>
       <Router>
         <div className="w-full">
-          <div className="flex justify-between fixed items-center top-0 h-20 nav-bar w-full shadow-md main-bg lg:px-10 z-30">
-            <div className="ml-1 lg:ml-10">
+          <div className="flex justify-between fixed items-center top-0  nav-bar w-full shadow-md main-bg lg:px-10 z-30">
+            <div className="ml-1 lg:ml-10 flex justify-center items-center">
               <Link
                 type="button"
                 to="/"
-                className="focus:outline-none w-auto mx-2 h-20 text-white text-3xl p-3 text-center border-transparent "
+                className="focus:outline-none w-auto mx-2  text-white text-3xl p-3 text-center border-transparent "
               >
                 WorldBestPartners
               </Link>
@@ -31,21 +31,21 @@ const App = () => {
               <Link
                 type="button"
                 to="/about"
-                className="focus:outline-none w-auto mx-2 pt-6 h-20 text-white text-xl p-3 text-center border-b-4 border-transparent hover:border-white duration-150 transition-all "
+                className="focus:outline-none w-auto mx-2 pt-6  text-white text-xl p-3 text-center border-b-4 border-transparent hover:border-white duration-150 transition-all "
               >
                 회사소개
               </Link>
               <Link
                 type="button"
                 to="/business"
-                className="focus:outline-none w-auto mx-2 pt-6 h-20 text-white text-xl p-3 text-center border-b-4 border-transparent hover:border-white duration-150 transition-all "
+                className="focus:outline-none w-auto mx-2 pt-6  text-white text-xl p-3 text-center border-b-4 border-transparent hover:border-white duration-150 transition-all "
               >
                 사업소개
               </Link>
               <Link
                 type="button"
                 to="/contact"
-                className="focus:outline-none w-auto mx-2 pt-6 h-20 text-white text-xl p-3 text-center border-b-4 border-transparent hover:border-white duration-150 transition-all "
+                className="focus:outline-none w-auto mx-2 pt-6  text-white text-xl p-3 text-center border-b-4 border-transparent hover:border-white duration-150 transition-all "
               >
                 위치 및 문의
               </Link>

@@ -6,7 +6,7 @@ function Business() {
     <>
       <div>
         <div
-          className="h-64 font-semibold text-gray-100 text-2xl text-center flex items-center main-bg flex flex-col mt-20 justify-center items-center bg-cover bg-center"
+          className="h-64 font-semibold text-gray-100 text-2xl text-center flex items-center main-bg flex flex-col mt-16 justify-center items-center bg-cover bg-center"
           style={{
             backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(${bgImg})`
           }}
