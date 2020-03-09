@@ -1,7 +1,6 @@
 import React from "react";
 import bgImg from "../img/bg-contact.jpg";
 import MapContainer from "./map/GoogleApi.jsx";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 function Contact() {
   return (
     <>

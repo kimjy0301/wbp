@@ -107,13 +107,13 @@ const App = () => {
                         <Route exact path="/">
                           <Main></Main>
                         </Route>
-                        <Route exact path="/about">
+                        <Route path="/about">
                           <About></About>
                         </Route>
-                        <Route exact path="/business">
+                        <Route path="/business">
                           <Business></Business>
                         </Route>
-                        <Route exact path="/contact">
+                        <Route path="/contact">
                           <Contact></Contact>
                         </Route>
                       </Switch>
