@@ -60,12 +60,12 @@ const App = () => {
               </button>
               <CSSTransition in={visibleNav} timeout={1} classNames="Nav">
                 <div
-                  className="absolute bg-white py-3 px-3 rounded shadow-lg opacity-0 flex flex-col w-48 z-40"
+                  className="absolute bg-white py-3 pl-5 rounded shadow-lg opacity-0 flex flex-col w-48 z-40"
                   style={{ right: "0rem", top: "2.7rem" }}
                 >
                   <Link
                     onClick={() => setVisibleNav(false)}
-                    className="text-2xl lg:text-2xl text-indigo-900 focus:outline-none block"
+                    className="text-2xl lg:text-2xl text-indigo-900 focus:outline-none block my-5"
                     type="button"
                     to="/about"
                   >
@@ -73,7 +73,7 @@ const App = () => {
                   </Link>
                   <Link
                     onClick={() => setVisibleNav(false)}
-                    className="text-2xl lg:text-2xl text-indigo-900 focus:outline-none block"
+                    className="text-2xl lg:text-2xl text-indigo-900 focus:outline-none block my-5"
                     type="button"
                     to="/business"
                   >
@@ -81,7 +81,7 @@ const App = () => {
                   </Link>
                   <Link
                     onClick={() => setVisibleNav(false)}
-                    className="text-2xl lg:text-2xl text-indigo-900 focus:outline-none block"
+                    className="text-2xl lg:text-2xl text-indigo-900 focus:outline-none block my-5"
                     type="button"
                     to="/contact"
                   >
