@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wbp/static/css/main.3386b50d.chunk.css",
+    "main.js": "/wbp/static/js/main.b933c103.chunk.js",
+    "main.js.map": "/wbp/static/js/main.b933c103.chunk.js.map",
+    "runtime-main.js": "/wbp/static/js/runtime-main.adfe019a.js",
+    "runtime-main.js.map": "/wbp/static/js/runtime-main.adfe019a.js.map",
+    "static/js/2.b685ed42.chunk.js": "/wbp/static/js/2.b685ed42.chunk.js",
+    "static/js/2.b685ed42.chunk.js.map": "/wbp/static/js/2.b685ed42.chunk.js.map",
+    "index.html": "/wbp/index.html",
+    "precache-manifest.4b1b1f46e465b111df44c46a749c0474.js": "/wbp/precache-manifest.4b1b1f46e465b111df44c46a749c0474.js",
+    "service-worker.js": "/wbp/service-worker.js",
+    "static/css/main.3386b50d.chunk.css.map": "/wbp/static/css/main.3386b50d.chunk.css.map",
+    "static/js/2.b685ed42.chunk.js.LICENSE.txt": "/wbp/static/js/2.b685ed42.chunk.js.LICENSE.txt",
+    "static/media/bg-about.jpg": "/wbp/static/media/bg-about.f5f6669d.jpg",
+    "static/media/bg-business.jpg": "/wbp/static/media/bg-business.32af9d3f.jpg",
+    "static/media/bg-contact.jpg": "/wbp/static/media/bg-contact.3d1f0525.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adfe019a.js",
+    "static/js/2.b685ed42.chunk.js",
+    "static/css/main.3386b50d.chunk.css",
+    "static/js/main.b933c103.chunk.js"
+  ]
+}
