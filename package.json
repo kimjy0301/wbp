@@ -1,0 +1,68 @@
+{
+  "name": "ack-adminweb",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "^10.0.27",
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
+    "@fortawesome/react-fontawesome": "^0.1.8",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@types/google-maps-react": "^2.0.4",
+    "@types/jest": "^24.0.0",
+    "@types/node": "^12.0.0",
+    "@types/react": "^16.9.0",
+    "@types/react-dom": "^16.9.0",
+    "@types/react-redux": "^7.1.7",
+    "@types/react-router-dom": "^5.1.3",
+    "@types/react-transition-group": "^4.2.4",
+    "@types/recharts": "^1.8.5",
+    "autoprefixer": "^9.7.4",
+    "axios": "^0.19.2",
+    "google-maps-react": "^2.0.2",
+    "postcss-cli": "^7.1.0",
+    "postcss-import": "^12.0.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-naver-maps": "^0.0.13",
+    "react-redux": "^7.1.3",
+    "react-router-dom": "^5.1.2",
+    "react-router-transition": "^2.0.0",
+    "react-scripts": "3.3.1",
+    "react-spinners": "^0.8.0",
+    "react-transition-group": "^4.3.0",
+    "recharts": "^2.0.0-beta.1",
+    "redux": "^4.0.5",
+    "redux-saga": "^1.1.3",
+    "typesafe-actions": "^5.1.0",
+    "typescript": "~3.7.2"
+  },
+  "scripts": {
+    "start": "npm run css && react-scripts start",
+    "css": "tailwind build src/styles/index.css -o src/styles/tailwind.css",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "redux-devtools-extension": "^2.13.8",
+    "tailwindcss": "^1.2.0"
+  }
+}
