@@ -107,6 +107,9 @@ const App = () => {
                         <Route exact path="/">
                           <Main></Main>
                         </Route>
+                        <Route path="/wbp">
+                          <Main></Main>
+                        </Route>
                         <Route path="/about">
                           <About></About>
                         </Route>
