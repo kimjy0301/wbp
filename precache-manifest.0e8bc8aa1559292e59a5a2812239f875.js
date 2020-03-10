@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60d5be1956644d0e2aa0a40c227a6856",
+    "revision": "284b6109072c860d522c3210052e453c",
     "url": "/wbp/index.html"
   },
   {
-    "revision": "762008c00804daf99ac4",
-    "url": "/wbp/static/css/main.3386b50d.chunk.css"
+    "revision": "650ee8b834842f9525b3",
+    "url": "/wbp/static/css/main.9c8676e4.chunk.css"
   },
   {
     "revision": "17513078ece1a93b00fc",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wbp/static/js/2.b685ed42.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "762008c00804daf99ac4",
-    "url": "/wbp/static/js/main.cb55811a.chunk.js"
+    "revision": "650ee8b834842f9525b3",
+    "url": "/wbp/static/js/main.ec9d7bb1.chunk.js"
   },
   {
     "revision": "daebb0e831e61e1f134a",
     "url": "/wbp/static/js/runtime-main.adfe019a.js"
+  },
+  {
+    "revision": "96b4a5b8dfa689a32dd322793d660298",
+    "url": "/wbp/static/media/GmarketSansTTFMedium.96b4a5b8.ttf"
   },
   {
     "revision": "f5f6669d23e01b862d0bf07ee442c41d",
